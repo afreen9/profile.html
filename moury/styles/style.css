@@ -1,0 +1,17 @@
+
+	h1 {
+		color: black;
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 2px 2px #ff0000;
+}
+
+
+body{
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightblue;
+}
